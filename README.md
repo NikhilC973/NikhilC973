@@ -141,7 +141,7 @@ Built and evaluated regression models on **1,224 NIR spectra** to predict key mi
 | Degree | Institution | GPA | Year |
 |--------|------------|-----|------|
 | 🎓 **MS in Statistics (Data Science)** | Rutgers University, New Brunswick | 3.5 / 4.0 | 2023 – 2025 |
-| 🎓 **B.Tech in ECE (CSE Minor)** | NIT Trichy, India | — | 2018 – 2022 |
+| 🎓 **B.Tech in ECE (CSE Minor)** | NIT Trichy, India | 7.24 | 2018 – 2022 |
 
 ---
 

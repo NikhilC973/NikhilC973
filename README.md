@@ -157,7 +157,7 @@ regression and segmentation analyses.
 | Degree | Institution | GPA | Year |
 |--------|-------------|-----|------|
 | **MS Statistics (Data Science)** | Rutgers University, New Brunswick | 3.5 / 4.0 | 2023–2025 |
-| **B.Tech ECE (CSE Minor)** | NIT Trichy, India | — | 2018–2022 |
+| **B.Tech ECE (CSE Minor)** | NIT Trichy, India | 7.24/10.0 | 2018–2022 |
 
 ---
 

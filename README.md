@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nikhil Chekuri
+# Nick Ch
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Business+Intelligence+Analyst;Power+BI+%7C+SQL+%7C+Private+Markets+Analytics)](https://git.io/typing-svg)
 
@@ -14,9 +14,9 @@
 
 ## About Me
 ```python
-class NikhilChekuri:
+class NickCh:
     def __init__(self):
-        self.name = "Nikhil Chekuri"
+        self.name = "Nick Ch"
         self.role = "Business Intelligence Analyst"
         self.location = "Ohio, USA — Open to Relocation"
         self.education = {
@@ -30,7 +30,7 @@ class NikhilChekuri:
     def say_hi(self):
         print("I build reporting systems that turn complex financial data into clear decisions.")
 
-me = NikhilChekuri()
+me = NickCh()
 me.say_hi()
 ```
 
